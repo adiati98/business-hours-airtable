@@ -1,0 +1,20 @@
+{
+  "name": "airtable-business-hours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js -e js"
+  },
+  "author": "Ayu Adiati",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
