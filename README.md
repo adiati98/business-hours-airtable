@@ -7,4 +7,5 @@ A shop business hours project using Airtable as database and NodeJS
 `npm-install`
 
 Additional installation:
+<br>
 `npm-install parcel-bundler`
