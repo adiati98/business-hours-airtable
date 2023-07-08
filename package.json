@@ -9,7 +9,7 @@
   "author": "Ayu Adiati",
   "license": "ISC",
   "dependencies": {
-    "airtable": "^0.8.1",
+    "airtable": "^0.12.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.3",
     "lodash": "^4.17.21",
